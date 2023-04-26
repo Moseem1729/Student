@@ -16,9 +16,6 @@
 	<properties>
 		<java.version>17</java.version>
 
-//this is done by QA Anil
-
-//this changes by DEV Sunil
 
 	</properties>
 	<dependencies>
